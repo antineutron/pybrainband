@@ -1,0 +1,7 @@
+Interface to Neurosky's brainwave interface devices as documented at
+http://wearcam.org/ece516/mindset_communications_protocol.pdf.
+
+* brainband/parser.py - library for parsing the Neurosky protocol
+* brainband-demo.py and brainband/gui.py - shonky WXwidgets interface to pull data from the device and display its readings on several meters
+
+
